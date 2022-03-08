@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Testcase 1 passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="80" started-at="2022-03-08T09:29:33 IST" finished-at="2022-03-08T09:29:33 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="80" started-at="2022-03-08T09:29:33 IST" finished-at="2022-03-08T09:29:33 IST">
+      <class name="testClasses.TC01_Login">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:testClasses.TC01_Login@12cdcf4]" name="TC01" duration-ms="12" started-at="2022-03-08T09:29:33 IST" finished-at="2022-03-08T09:29:33 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Testcase 1 passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC01 -->
+      </class> <!-- testClasses.TC01_Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
